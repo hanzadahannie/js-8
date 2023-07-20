@@ -22,14 +22,14 @@
 // }
 // console.log(handleSum(array));
 
-const array=[1, 2, 5, 9, 4, 13, 10]
-let res=""
-function handleSum (array) {
-    for (let index = 0; index < array.length; index++){
-        if(array[index] === 4){
-            return 'Yes';
-        }
-    }
-    return res
-}
-console.log(handleSum(array));
+// const array=[1, 2, 5, 9, 4, 13, 10]
+// let res=""
+// function handleSum (array) {
+//     for (let index = 0; index < array.length; index++){
+//         if(array[index] === 4){
+//             return 'Yes';
+//         }
+//     }
+//     return res
+// }
+// console.log(handleSum(array));
